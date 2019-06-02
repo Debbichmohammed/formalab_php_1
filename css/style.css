@@ -1,0 +1,11 @@
+form {
+    width: 30% ;
+    height: 200px ;
+    margin-left: 500px ;
+    margin-top: 200px;
+    background-color: rgb(240, 243, 247);
+}
+
+body {
+    background-image: url(../images/nature\ 1.jpg)
+}

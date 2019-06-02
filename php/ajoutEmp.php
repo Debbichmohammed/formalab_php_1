@@ -17,10 +17,10 @@ elseif ($result % 2 ==0){
     echo 'paire';
 }*/
 
-$n=$_POST['nom'];
-$p=$_POST['prenom'];
-$age=$_POST['age'];
-echo "Je m'appelle $p $n j'ai $age";
+$nom=$_POST['nom'];
+$prenom=$_POST['prenom'];
+$matricule=$_POST['matricule'];
+echo "Je m'appelle $prenom $nom j'ai $matricule";
 
 ?>
     
